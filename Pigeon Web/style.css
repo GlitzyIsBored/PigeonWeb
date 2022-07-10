@@ -1,0 +1,11 @@
+img {
+    width: 300px;
+    height: 250px;
+}
+
+.selector {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
